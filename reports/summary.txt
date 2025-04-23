@@ -1,0 +1,25 @@
+Reconciliation Analysis Summary
+==================================================
+Total Transactions: 10,515
+Reconciled: 8,813 (83.8%)
+Unmatched Bank: 762 (7.2%)
+Unmatched Ledger: 940 (8.9%)
+
+Mismatch Analysis:
+Date Mismatches: 793 (9.0% of reconciled)
+Amount Mismatches: 1,369 (15.5% of reconciled)
+
+Currency-wise Comparison:
+EUR: Bank=-318,415.85, Internal=-319,933.73
+Difference: 1,517.88
+USD: Bank=783,017.78, Internal=772,209.43
+Difference: 10,808.35
+GBP: Bank=173,935.62, Internal=175,796.63
+Difference: 1,861.01
+
+Transaction Trends:
+Peak reconciled transactions: 39 on 2024-10-06
+Lowest reconciled transactions: 13 on 2024-05-23
+Average daily reconciled transactions: 24.2
+Total days analyzed: 364
+Date range: 2024-04-01 to 2025-03-30
